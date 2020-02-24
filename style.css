@@ -1,0 +1,264 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    overflow: hidden;
+}
+.header_google{
+    text-align: right;
+    margin-right: 30px;
+   
+}
+.header_google li{
+    display: inline-block;
+    margin: 0 5px;
+    
+}
+
+.header_google a{
+    text-decoration: none;
+    color: rgba(0, 0, 0);
+
+
+}
+
+
+
+
+.header_google a:hover{
+    text-decoration: underline;
+    color: rgba(0, 0, 0 ,0.7)
+}
+
+.header_google a:visited{
+    text-decoration: underline;
+    color: rgba(0, 0, 0 ,0.7)
+}
+
+.img_google{
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 15px;
+    
+}
+
+.img_google img{
+    width: 20%;
+    height: 20%;
+}
+.insert_text{
+    text-align: center;
+}
+
+input[type=text]{
+    width: 42%;
+    border: 1px solid rgba(83, 83, 83, 0.2);
+    font-size: 18px;
+    border-radius: 100px;
+    margin: 8px 0; ;
+    outline: none;
+    padding: 15px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+
+
+
+
+.container_btn{
+    text-align: center;
+    margin-top: 30px;
+}
+.btnSearch{
+    border: none;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0px 5px;
+    color: rgb(66, 66, 66,0.8);
+}
+.btnSearch{
+    border: none;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0px 5px;
+    color: rgb(66, 66, 66,0.8);
+}
+.btnSearch:hover{
+    border: none;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0px 5px;
+    color: black;
+    border: 1px solid rgba(83, 83, 83, 0.2)
+}
+
+.lang_content{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.lang_content a{
+    text-decoration: none;
+    color: rgb(0, 2, 145)
+
+}
+
+.lang_content a:hover{
+    text-decoration: underline;
+    color: rgb(0, 2, 145)
+
+}
+
+.footer_google{
+    margin-top: 150px;
+}
+
+
+
+.first_footer{
+    background-color: rgba(143, 143, 143, 0.2);
+    border: 1px solid rgb(150, 150, 150,0.2);
+}
+
+.first_footer p{
+    color: rgb(66, 66, 66,0.7) ;
+    margin-left:63px;
+}
+
+.left_footer{
+    display: inline-block;
+}
+.second_footer{
+    background-color: rgba(143, 143, 143, 0.2);
+    border: 1px solid rgba(173, 173, 173, 0.2);
+    padding: 15px;
+}
+
+.left_footer ul{
+    display: inline;
+    
+    
+ }
+
+
+.left_footer li{
+   display: inline;
+   margin: 0 10px;
+}
+
+.left_footer a{
+    text-decoration: none;
+    color: rgb(66, 66, 66,0.7) ;
+ }
+
+ .left_footer a:hover{
+    text-decoration: underline;
+    
+ }
+ 
+ .left_footer li{
+   display: inline;
+   
+}
+
+.left_footer a{
+    text-decoration: none;
+    color: rgb(66, 66, 66,0.7) ;
+ }
+
+ .left_footer a:hover{
+    text-decoration: underline;
+    
+ }
+ 
+
+.right_footer{
+    display: inline;
+    margin-left: 600px;
+    position: absolute;
+    right: 0;
+    margin-right: 35px;
+    }
+
+.right_footer ul{
+    display: inline;
+    margin: 0 10px;
+ }
+ 
+
+ .right_footer li{
+    display: inline;
+    margin: 0 10px;
+ }
+ 
+ .right_footer a{
+     text-decoration: none;
+     color: rgb(66, 66, 66,0.7) ;
+  }
+ 
+  .right_footer a:hover{
+     text-decoration: underline;
+     
+  }
+  .input-icons i { 
+    position: absolute; 
+    margin-top: 15px;
+    left: 445px;
+    
+} 
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 10px; 
+    
+} 
+.icon { 
+    padding: 10px; 
+    min-width: 40px; 
+} 
+
+
+
+.icon1 { 
+    padding: 10px; 
+    min-width: 40px; 
+} 
+.input-icons-right1 i { 
+    position: absolute; 
+    margin-top: 15px;
+    margin-left: 500px;
+    right: 450px;
+} 
+.input-icons-right1 { 
+    width: 100%; 
+    margin-bottom: 10px; 
+} 
+  
+.icon2 { 
+    padding: 10px; 
+    min-width: 40px; 
+} 
+.input-icons-right2 i { 
+    position: absolute; 
+    margin-top: 15px;
+    right: 370px;
+} 
+.input-icons-right2 { 
+    width: 100%; 
+    margin-bottom: 10px; 
+} 
+
+.icon3 { 
+    padding: 10px; 
+    min-width: 40px; 
+} 
+
+
